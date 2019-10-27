@@ -1,0 +1,48 @@
+
+/*----------------Header 1 Logo e Sociais----------------*/
+.header {
+    height: 56px;
+    background-color: #252323;
+}
+
+.sociais {
+    margin: 0;
+}
+.sociais ul {
+    margin-right: 190px ;
+    text-align: right;
+    margin-top: 15px;
+}
+.sociais ul li {
+    text-decoration: none;
+    display: inline;
+    margin-left: 15px;
+    
+}
+.sociais i {
+    color: #c1c1c1;
+    font-size: 20px;
+}
+
+.logo img {
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+/*---------X-------Header 1 Logo e Sociais--------X--------*/
+
+/*----------------Navegação----------------*/
+.navbar-nav {
+    margin-left: 180px;
+}
+.pesquisar {
+    margin-right: 172px;
+}
+
+.pesquisar input {
+    background-image: url(../img/lupa.png);
+    background-repeat: no-repeat;
+    background-position: 96%;
+}
+
+/*---------X-------Navegação--------X--------*/
